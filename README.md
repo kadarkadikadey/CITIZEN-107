@@ -1,9 +1,4 @@
 
-
-https://github.com/user-attachments/assets/fc3fd9b0-2411-4583-9ade-ae9c3fddf0d5
-
-
-
 # 🚨 CITIZEN-107
 **Emergency Response & Volunteer Coordination Platform**
 
@@ -28,3 +23,4 @@ The app allows a user to select a type of injury/emergency, automatically determ
 
 ---
 
+https://github.com/user-attachments/assets/fc3fd9b0-2411-4583-9ade-ae9c3fddf0d5
