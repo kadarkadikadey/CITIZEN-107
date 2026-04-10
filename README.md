@@ -22,7 +22,7 @@ The app allows a user to select a type of injury/emergency, automatically determ
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup
 
 ### 1. Environment Configuration
 Create a `.env` file in the root directory. This project requires the following keys from your Google Cloud Service Account:
