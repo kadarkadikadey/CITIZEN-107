@@ -22,13 +22,3 @@ The app allows a user to select a type of injury/emergency, automatically determ
 
 ---
 
-## ⚙️ Setup
-
-### 1. Environment Configuration
-Create a `.env` file in the root directory. This project requires the following keys from your Google Cloud Service Account:
-```env
-GCP_PROJECT_ID=citizen-107-a2440
-GCP_PRIVATE_KEY_ID=your_private_key_id
-GCP_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYour_Key_Content\n-----END PRIVATE KEY-----\n"
-GCP_CLIENT_EMAIL=your-service-account@citizen-107.iam.gserviceaccount.com
-```
