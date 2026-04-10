@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986744449921",
+    "project_id": "citizen-107-a2440",
+    "storage_bucket": "citizen-107-a2440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986744449921:android:2520fae32eaa64fa8ad680",
+        "android_client_info": {
+          "package_name": "com.example.citizen_107"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6YhyKVzH6_45S9JJTSdPPJfNSuBP0Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
