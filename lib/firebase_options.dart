@@ -47,28 +47,14 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCdPo4jj2gtR5gaGY2t5WFAHNXvdu1ak-8',
-    appId: '1:986744449921:web:1095c7b8dcff740c8ad680',
-    messagingSenderId: '986744449921',
-    projectId: 'citizen-107-a2440',
-    authDomain: 'citizen-107-a2440.firebaseapp.com',
-    storageBucket: 'citizen-107-a2440.firebasestorage.app',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBt6YhyKVzH6_45S9JJTSdPPJfNSuBP0Mw',
-    appId: '1:986744449921:android:2520fae32eaa64fa8ad680',
-    messagingSenderId: '986744449921',
-    projectId: 'citizen-107-a2440',
-    storageBucket: 'citizen-107-a2440.firebasestorage.app',
+
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD67y6gAmtMIKyUnXeprAllUdi1yRp0NWU',
-    appId: '1:986744449921:ios:e0ec29ecc90a86c18ad680',
-    messagingSenderId: '986744449921',
-    projectId: 'citizen-107-a2440',
-    storageBucket: 'citizen-107-a2440.firebasestorage.app',
-    iosBundleId: 'com.example.citizen107',
+
   );
 }
